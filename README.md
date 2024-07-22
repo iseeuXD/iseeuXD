@@ -45,5 +45,5 @@
 <h3 align="left">Hail Satan!</h3>
 
 <div align="center">
-  <img height="150" src="[https://i.pinimg.com/originals/6b/06/f7/6b06f7165d1c3b69cda78fd23362c2c4.gif](https://i.pinimg.com/originals/44/35/66/443566d100a7a982eb55f6d9eedf4be9.gif)"  />
+  <img height="150" src="https://i.pinimg.com/originals/44/35/66/443566d100a7a982eb55f6d9eedf4be9.gif"  />
 </div>
