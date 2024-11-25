@@ -14,15 +14,15 @@
 
 ###
 
-<h3 align="left">iseeu?</h3>
+<h3 align="center">iseeu?</h3>
 
 ###
 
-<p align="left">- 🔭 Developer<br>- 📚 Reverser<br>- ⚡ Designer</p>
+<p align="center">- 🩸 Developer<br>- 🧧 Reverser<br>- 💢 Designer</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
